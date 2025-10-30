@@ -1,0 +1,3 @@
+
+print("HOLA MUNDO CRUEL")
+print('HOLA MUNDO MAS CRUEL')

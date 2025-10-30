@@ -1,0 +1,13 @@
+# Tipode Datos 
+cadena = input("introduce  una palabra : ")
+numero = int(input("Intriduce un número : "))
+decimal = float(input("Introduce un número decimal : "))
+print("**********************************")
+print(cadena)
+print(numero)
+print(decimal)
+print("**********************************")
+print(type(cadena))
+print(type(numero))
+print(type(decimal))
+print("**********************************")
